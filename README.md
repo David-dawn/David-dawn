@@ -1,13 +1,12 @@
-# Hi there! 👋 I'm David Dawn  
+# Hi there... I'm Dave 👋  
 
-- 👀 I’m interested in **Frontend Development** and **Cybersecurity** (my dream career).  
-- 🌱 I’m currently learning **Frontend Development** with a focus on React and Three.js.  
-- 💞️ I’m looking to collaborate on **innovative web development projects** and **cybersecurity-related initiatives**.  
-- 📫 How to reach me: **[daveamosu@gmail.com ]** or connect with me on **[LinkedIn/https://www.linkedin.com/in/david-amosu-71a29929b/]**.  
-- 😄 Pronouns: **He/Him**.  
-- ⚡ Fun fact: I’m a huge fan of **FC Barcelona** and love **exploring tech that protects and builds!**  
+😄 Pronouns: **He/Him**  
+I am a Frontend Developer trainee and a cybersecurity enthusiast passionate about building solutions that inspire and protect.  
 
-<!---
-David-dawn/David-dawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am skilled in crafting responsive, user-friendly interfaces using modern web technologies. I code primarily in **JavaScript**, work with tools like **React** and **Three.js**, and I’m constantly improving my skills. I love exploring the intersection of creativity and logic while learning something new every day. During my free time, I enjoy learning about God and diving deep into tech trends. 😄  
+
+🌱 I’m currently learning advanced frontend development and cybersecurity fundamentals.  
+
+💬 Ask me about **JavaScript**, **React**, **Three.js**, or anything tech-related! ✨  
+
+⚡ Fun fact: I’m a huge **FC Barcelona fan**, and I dream of a career where I combine **frontend development** with **cybersecurity**!  
